@@ -51,6 +51,7 @@
 		67A18263299DFF500092C1EF /* Mark1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Mark1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		67A18267299DFF500092C1EF /* Mark1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mark1UITests.swift; sourceTree = "<group>"; };
 		67A18269299DFF500092C1EF /* Mark1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mark1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		67A18279299DFFF50092C1EF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		67A18237299DFF4B0092C1EF = {
 			isa = PBXGroup;
 			children = (
+				67A18279299DFFF50092C1EF /* README.md */,
 				67A18242299DFF4B0092C1EF /* Mark1 */,
 				67A1825C299DFF500092C1EF /* Mark1Tests */,
 				67A18266299DFF500092C1EF /* Mark1UITests */,
@@ -101,8 +103,12 @@
 		67A18242299DFF4B0092C1EF /* Mark1 */ = {
 			isa = PBXGroup;
 			children = (
+				67A18276299DFF690092C1EF /* Models */,
 				67A18243299DFF4B0092C1EF /* AppDelegate.swift */,
 				67A18245299DFF4B0092C1EF /* SceneDelegate.swift */,
+				67A1827A299E00380092C1EF /* ContentView */,
+				67A18277299DFF710092C1EF /* ListViewController */,
+				67A18278299DFF800092C1EF /* DateilViewController */,
 				67A18247299DFF4B0092C1EF /* ViewController.swift */,
 				67A18249299DFF4B0092C1EF /* Main.storyboard */,
 				67A1824F299DFF4F0092C1EF /* Assets.xcassets */,
@@ -128,6 +134,34 @@
 				67A18269299DFF500092C1EF /* Mark1UITestsLaunchTests.swift */,
 			);
 			path = Mark1UITests;
+			sourceTree = "<group>";
+		};
+		67A18276299DFF690092C1EF /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		67A18277299DFF710092C1EF /* ListViewController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ListViewController;
+			sourceTree = "<group>";
+		};
+		67A18278299DFF800092C1EF /* DateilViewController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = DateilViewController;
+			sourceTree = "<group>";
+		};
+		67A1827A299E00380092C1EF /* ContentView */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ContentView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
