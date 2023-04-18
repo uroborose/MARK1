@@ -11,3 +11,5 @@ import Foundation
 var name : Int = 0
 let hello : String = "hello"
 
+var ditt : Int = 12
+let ddiiq : String = "fuck"
