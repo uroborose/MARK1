@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6709097B29EF19AD00B6158B /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6709097A29EF19AD00B6158B /* test.swift */; };
 		67699C7529B59BA900883A0C /* ReminderViewController+Section.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67699C7429B59BA900883A0C /* ReminderViewController+Section.swift */; };
 		67699C7929B78FEE00883A0C /* ReminderViewController+CellConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67699C7829B78FEE00883A0C /* ReminderViewController+CellConfiguration.swift */; };
 		67699C7C29B83EE700883A0C /* UIView+PinnedSubview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67699C7B29B83EE700883A0C /* UIView+PinnedSubview.swift */; };
@@ -56,7 +55,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		6709097A29EF19AD00B6158B /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = SOURCE_ROOT; };
 		67699C7429B59BA900883A0C /* ReminderViewController+Section.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ReminderViewController+Section.swift"; sourceTree = SOURCE_ROOT; };
 		67699C7829B78FEE00883A0C /* ReminderViewController+CellConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ReminderViewController+CellConfiguration.swift"; sourceTree = "<group>"; };
 		67699C7B29B83EE700883A0C /* UIView+PinnedSubview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "UIView+PinnedSubview.swift"; path = "Mark1/Assets.xcassets/UIView+PinnedSubview.swift"; sourceTree = SOURCE_ROOT; };
@@ -213,7 +211,6 @@
 			isa = PBXGroup;
 			children = (
 				67ABBEB529B31B320018B0D5 /* ReminderViewController.swift */,
-				6709097A29EF19AD00B6158B /* test.swift */,
 				67ABBEB729B326AB0018B0D5 /* ReminderViewController+Row.swift */,
 				67699C7429B59BA900883A0C /* ReminderViewController+Section.swift */,
 				67699C7829B78FEE00883A0C /* ReminderViewController+CellConfiguration.swift */,
@@ -367,7 +364,6 @@
 				67699C8229B9DC1B00883A0C /* TextViewContentView.swift in Sources */,
 				67ABBEB629B31B320018B0D5 /* ReminderViewController.swift in Sources */,
 				67ABBEA629AFB96C0018B0D5 /* CustomWeekHeader.swift in Sources */,
-				6709097B29EF19AD00B6158B /* test.swift in Sources */,
 				67699C8029B87AE900883A0C /* UIContentConfiguration+Stateless.swift in Sources */,
 				67699C7529B59BA900883A0C /* ReminderViewController+Section.swift in Sources */,
 				67ABBEB229B1E1740018B0D5 /* ReminderDoneButton.swift in Sources */,

@@ -22,4 +22,3 @@ extension ReminderViewController {
 }
 
 
-var docther : Int = 0
